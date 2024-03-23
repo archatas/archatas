@@ -2,6 +2,8 @@
 
 I am Aidas, a Lithuanian living in Berlin, Germany. I've been working in the Web Development field for 20 years.
 
+I am currently raising funds for [PyBazaar - Python Developer Marketplace](https://igg.me/at/pybazaar/x/36938670#/).
+
 These are some of my achievements:
 
 - I have developed, provided, and supported the prioritization service [1st things 1st](https://www.1st-things-1st.com).
