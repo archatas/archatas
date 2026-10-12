@@ -23,7 +23,7 @@ I enjoy turning ideas into working software, solving practical problems, and fin
 - **1st things 1st** — A strategic prioritization tool for focusing on what matters most.
 - **Remember Your People** — An encrypted notes app for keeping important information about the people in your life.
 - **PyBazaar** — A platform for Python developers.
-- 
+
 ### Tech stack
 
 `Python` `Django` `JavaScript` `React` `jQuery` `PostgreSQL` `Claude Code`
