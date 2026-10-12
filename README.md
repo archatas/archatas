@@ -7,9 +7,9 @@ I enjoy turning ideas into working software, solving practical problems, and fin
 ### What I do
 
 - **Software engineering:** Develop and maintain web platforms, backend systems, and SaaS products.
-- **Product development:** Build products from initial ideas to production-ready software through my company, [Websightful UG](https://aidas.bendoraitis.lt).
+- **Product development:** Build products from initial ideas to production-ready software through my company, [Websightful UG](https://websightful.co/).
 - **Django development:** Create reusable Django apps and share practical development techniques.
-- **Technical writing:** Co-author of multiple editions of *[Web Development with Django Cookbook](https://www.packtpub.com/)* and creator of [DjangoTricks](https://www.djangotricks.com/).
+- **Technical writing:** Co-author of multiple editions of [Web Development with Django Cookbook](https://www.amazon.com/stores/author/B083NBVVHM/allbooks) and creator of [DjangoTricks](https://www.djangotricks.com/).
 - **AI-assisted development:** Explore tools such as Claude Code to evaluate technical approaches, improve workflows, and build software more efficiently.
 
 ### Projects
