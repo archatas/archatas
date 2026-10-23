@@ -32,4 +32,4 @@ I enjoy turning ideas into working software, solving practical problems, and fin
 
 Outside software development, I'm interested in psychology, science fiction, futurism, sustainability, photography, and continuous learning.
 
-You can find more about my work at [aidas.bendoraitis.lt](https://aidas.bendoraitis.lt).
+You can find more about me at [aidas.bendoraitis.lt](https://aidas.bendoraitis.lt).
