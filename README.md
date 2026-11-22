@@ -24,7 +24,7 @@ I enjoy turning ideas into working software, solving practical problems, and fin
 
 ### Tech stack
 
-`Python` `Django` `JavaScript` `React` `jQuery` `PostgreSQL` `Elasticsearch` `Claude Code`
+`Python` `Django` `JavaScript` `React` `jQuery` `PostgreSQL` `Elasticsearch` `Ansible` `Claude Code`
 
 ### A bit more about me
 
