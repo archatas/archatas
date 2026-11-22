@@ -14,8 +14,6 @@ I enjoy turning ideas into working software, solving practical problems, and fin
 
 ### Projects
 
-### Projects
-
 - **[DjangoTricks](https://www.djangotricks.com/)** — Practical Django tips, techniques, and development insights.
 - **[Django GDPR Cookie Consent](https://websightful.gumroad.com/l/django-gdpr-cookie-consent)** — A reusable Django app for managing cookie consent on websites.
 - **[Django Paddle Subscriptions](https://websightful.gumroad.com/l/django-paddle-subscriptions)** — A reusable Django app for implementing free and paid SaaS subscriptions using Paddle Billing.
